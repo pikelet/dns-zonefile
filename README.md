@@ -1,4 +1,4 @@
-terible-dns-zonefile
+terrible-dns-zonefile
 ============
 This *was* an [RFC1035 compliant](http://www.ietf.org/rfc/rfc1035.txt) DNS zone file
 parser and generator, but my domain provider isn't playing nice, so.. I'm sorry, it's going to be bad. 
